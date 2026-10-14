@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../home_work2/android/counter_android.iml" filepath="$PROJECT_DIR$/../home_work2/android/counter_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../home_work2/home_work2.iml" filepath="$PROJECT_DIR$/../home_work2/home_work2.iml" />
+    </modules>
+  </component>
+</project>
